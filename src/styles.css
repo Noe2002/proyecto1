@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mat-toolbar.mat-accent {
+    background:url(https://static.vecteezy.com/system/resources/previews/002/254/545/non_2x/lilac-pastel-purple-color-watercolor-texture-background-free-photo.jpg);
+    color:black;
+}
+.mat-drawer-container {
+    background-color: #ffffff;
+    color:rgb(2, 2, 2);
+}
+.mat-list-item-content{
+    
+    color: black;
+}

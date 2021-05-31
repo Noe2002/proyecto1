@@ -1,0 +1,36 @@
+
+.foto{
+    position:absolute;
+    left:33%;
+    margin-bottom:5px;
+}
+.foto2{
+    position:relative;
+    left:4%;
+}
+.foto3{
+    position:relative;
+    left:36%;
+}
+.foto4{
+    position:relative;
+    top:350px;
+    right:18%;
+    
+    
+}
+.foto5{
+    position:relative;
+    left:4%;
+    top:50px;
+}
+.foto6{
+    position:relative;
+    left:38%;
+    top:50px;
+}
+h1{
+    font-family: georgia, serif;
+    text-align: center;
+    background:url(https://i.pinimg.com/736x/01/da/30/01da302c4104c2007ccdefa74ff2b000.jpg)
+}

@@ -1,0 +1,24 @@
+.example-form {
+    min-width: 600px;
+    max-width: 600px;
+    width: 300%;
+    background:url(https://static.vecteezy.com/system/resources/previews/002/254/545/non_2x/lilac-pastel-purple-color-watercolor-texture-background-free-photo.jpg);
+    margin-top: 3%;
+    margin-left:28%;
+    font-size:20px;
+  }
+  
+.example-full-width {
+    width: 300%
+    
+  }
+
+.boton1{
+    display:flex;
+    width: 490px;
+    right:50%;
+    left:73%;
+    position:absolute;
+    top: 500px;
+    
+}

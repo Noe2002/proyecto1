@@ -1,0 +1,20 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+  background:rgb(248, 202, 210);
+  color:rgb(0, 0, 0);
+}
+
+.sidenav .mat-toolbar {
+  background:url(https://static.vecteezy.com/system/resources/previews/002/254/545/non_2x/lilac-pastel-purple-color-watercolor-texture-background-free-photo.jpg);
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index:1;
+  background:url(https://static.vecteezy.com/system/resources/previews/002/254/545/non_2x/lilac-pastel-purple-color-watercolor-texture-background-free-photo.jpg);
+}

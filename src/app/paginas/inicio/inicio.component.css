@@ -1,0 +1,28 @@
+h1{
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    color: #000000;
+    border-top: 1px solid;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: currentcolor;
+    padding-left: 1em;
+    margin-top:30px;
+    border-left: 3px solid;
+}
+p{
+    background-color: rgb(251, 136, 155);
+    color:black;
+    text-decoration: underline;
+    font-family: 'Architects Daughter', cursive;
+}
+.portada{
+    color:black;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/736x/01/da/30/01da302c4104c2007ccdefa74ff2b000.jpg);
+}
+.mat-grid-tile {
+    background: url(https://image.freepik.com/vector-gratis/copiar-espacio-fondo-floral-violeta-pastel_23-2148821180.jpg);
+  }
+  
